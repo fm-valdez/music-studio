@@ -204,46 +204,46 @@ p {
 
 
 .services-img-1 {
-    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)) ,url(img/mix-master-1.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)) ,url(../img/mix-master-1.jpeg);
     background-size: cover;
 }
 
 .services-img-2 {
-    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.5)), url(img/livesession-1.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.5)), url(../img/livesession-1.jpeg);
     background-size: cover;
 }
 .services-img-3 {
-    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.5)), url(img/foley-1.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.5)), url(../img/foley-1.jpeg);
     background-size: cover;
 }
 
 .services-img-4 {
-    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(img/worldmap-1.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(../img/worldmap-1.jpeg);
     background-size: cover;
 }
 
 .services-img-5 {
-    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.5)), url(img/arreglos-1.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.5)), url(../img/arreglos-1.jpeg);
     background-size: cover;
 }
 
 .services-img-6 {
-    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(img/gear-3.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(../img/gear-3.jpeg);
     background-size: cover;
 }
 
 .services-img-7 {
-    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(img/sessionist-3.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(../img/sessionist-3.jpeg);
     background-size: cover;
 }
 
 .services-img-8 {
-    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(img/instruments-1.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(../img/instruments-1.jpeg);
     background-size: cover;
 }
 
 .services-img-9 {
-    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(img/chillin-1.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(../img/chillin-1.jpeg);
     background-size: cover;
 }
 
@@ -390,7 +390,7 @@ h3 {
 .cta {
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(img/producer-1.jpeg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(../img/producer-1.jpeg);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
